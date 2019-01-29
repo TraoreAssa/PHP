@@ -1,0 +1,5 @@
+PHP: PHP Hypertext Prepocessor, plus connu sous son sigle PHP (acronyme récursif), 
+est un language de programmation libre principalement utilisé pour produire des 
+pages Webdynamiques via un serveur HTTP, 
+mais pouvant également fonctionner comme m'importe quel langage interprété de facon locale.
+PHP est un langage impératif orienté objet comme C++.

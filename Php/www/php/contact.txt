@@ -1,0 +1,14 @@
+nom : buissonxc
+prenom : julieb78
+adresse : dfhtr
+cp : 45212
+ville : poissthju
+mail : fdhtrfg@jzefh.fr
+--------------
+nom : buissonxc
+prenom : julieb78
+adresse : dfhtr
+cp : 45212
+ville : poissthju
+mail : fdhtrfg@jzefh.fr
+--------------

@@ -1,0 +1,12 @@
+-->
+Creation d'un site web complet .CRUD (Creat Read Update Delete)
+creat fonctionnalité de base d'un site
+
+-->Etapes
+
+1--creation de la base des données et des tables
+
+2-realisation de mon arborescence: ie creations des dossiers et fichiers neccessaires
+
+3-inc sont les fichier d'inclusion
+connexion BDD,reglage de l'encodage et different variable

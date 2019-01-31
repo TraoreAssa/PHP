@@ -8,6 +8,9 @@
 </head>
 <body>
     <?php
+    // Avec visiteur.php
+    // Avec visiteur.class.php
+    // Avec femme.class.php
 
     ?>
 </body>

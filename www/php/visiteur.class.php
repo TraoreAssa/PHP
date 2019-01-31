@@ -1,7 +1,8 @@
 <?php
+// Avec POO.php
 
     class Visiteur{
-        private $prenom;
+        private $prenom; // ne peux pas etre utiliser en dehors de la class
         public $nom;
 
         public function set_prenom($nouveau_prenom){ 

@@ -1,0 +1,34 @@
+.forms-style {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+
+}
+
+.pseudo{
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.main-boutique{
+	display: flex;
+	justify-content: space-around;
+}
+
+.categories{
+	background: #c1c1c1;
+	width: 20%;
+}
+
+.produits {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	width: 80%;
+	text-align: center;
+}
+
+.product h2{
+	font-size: 17px;
+}

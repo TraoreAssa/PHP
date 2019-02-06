@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+
+body{
+    background:#a9f0d1;
+    font-family: 'Srisakdi', cursive;
+}
+
+.container-fluid{
+  
+  width:60%;
+    background:url(consignes/bg.jpg) ;
+}
+
+.contenu{
+    display:flex;
+   margin:20px;
+    
+}
+
+i{
+    color:#6c9986;
+}
+
+h1 i{
+    width:100px;
+}
+
+h3{
+    text-align:end;
+}

@@ -1,0 +1,30 @@
+Exemple formulaire: 
+HTML : créer des éléments (inputs etc)
+CSS : créer le style
+PHP : permet d'associer une action supplémentaire qui permet d'exploiter ses informations (langage qui communique avec la BDD)
+
+STATIQUE : un site statique est généralement réalisé avec les langages HTML et CSS . La mise à jour du contenu (image, texte, etc) va nécessiter une intervention dans le code.
+
+DYNAMIQUE : les infos proviennent  d'une base de données, la mise à jour du contenu est réalisée automatiquement grâce à des requêtes envoyées au serveur. Nous pouvons dire qu'un site dynamique est composé de deux sites: 
+=> partie FRONT (pour l'affichage du site normal) destinée au grand public.
+=> partie BACK protégée par authentification et destinée à la mise à jour du contenu par un admin.
+
+
+Les erreurs courantes:
+
+Parse error: 
+-il manque un point-virgule
+-il manque un guillemet, quote ou parenthese
+-il y a un probleme de concatenation
+-une accolade est mal fermée
+
+Undefined function:
+la fonction appelée n'existe pas ou n'est pas definie
+-soit la fonction n'existe vraiment pas
+-soit il y a une faute de frappe
+
+Wrong Parameter count:
+-oubli de parametres dans la fonction  
+ex:
+function appeler(param1,param2,param3);
+appeler(param1, param2);

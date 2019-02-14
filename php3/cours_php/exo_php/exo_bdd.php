@@ -16,7 +16,7 @@ $content="<form action="" method="post">
 
 if($_POST){
 try {
-    $bdd = new PDO('mysql:host=localhost;       dbname=utilisateurs;charset=utf8','root', '', array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));// les :: representent un marqueur nominatif, et la ligne array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION) traque les erreurs et affiche les messages d'erreurs
+    $bdd = new PDO('mysql:host=localhost;dbname=utilisateurs;charset=utf8','root', '', array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));// les :: representent un marqueur nominatif, et la ligne array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION) traque les erreurs et affiche les messages d'erreurs
 }catch (Exception $e){
     die('erreur : ' .$e->getMessage());
 }

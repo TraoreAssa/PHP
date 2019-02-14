@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    // avec POO.php
+    // avec POO.php et femme.class.php
         include_once('visiteur.class.php'); 
         //inclure 1 fois
 
